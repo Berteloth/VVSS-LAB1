@@ -16,4 +16,12 @@
         <Nume>Ion</Nume>
         <Grupa>227</Grupa>
     </student>
+    <student ID="coa">
+        <Nume>bert</Nume>
+        <Grupa>333</Grupa>
+    </student>
+    <student ID="-1">
+        <Nume>a</Nume>
+        <Grupa>122</Grupa>
+    </student>
 </Entitati>
